@@ -1,0 +1,4 @@
+module app2048
+typeinfo app2048.qmltypes
+prefer :/
+

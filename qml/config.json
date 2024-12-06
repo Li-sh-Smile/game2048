@@ -1,0 +1,8 @@
+{
+    "title": "game2048",
+    "identifier": "game2048",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
